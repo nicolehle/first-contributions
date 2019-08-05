@@ -1,3 +1,4 @@
+
 ﻿# Contributors
 
 - [vivaan rajpu](https://github.com/vivaanxr)
@@ -32,6 +33,7 @@ _ Jay Kim
 - Derek Zoolanderhausen
 - Purple People Eater
 - Daniel Larken
+- Nicole Lee
 - Michael Jackson 'King of Pop'
 - Michael Giardino
 - William Eller (https://github.com/WilliamEller)
